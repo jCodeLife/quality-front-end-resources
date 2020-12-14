@@ -11,7 +11,7 @@
 
 ## 文章
 1. [ECMAScript 6 入门](https://es6.ruanyifeng.com)   阮一峰  推荐指数★★★★★
-2. 
+2. [Rem布局的原理解析](https://yanhaijing.com/css/2017/09/29/principle-of-rem-layout/)   颜海镜  推荐指数★★★★
 
 ## 视频
   1. [Web前端开发JavaScript权威课堂](https://ke.qq.com/course/231577?taid=2841395744442521)  姬成  推荐指数：★★★★★
