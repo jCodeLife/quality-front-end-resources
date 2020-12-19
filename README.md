@@ -15,3 +15,5 @@
 
 ## 视频
   1. [Web前端开发JavaScript权威课堂](https://ke.qq.com/course/231577?taid=2841395744442521)  姬成  推荐指数：★★★★★
+  2. [2分钟了解 JavaScript Event Loop](https://www.bilibili.com/video/BV1kf4y1U7Ln?from=search&seid=2734638953578049157)  峰华前端工程师  推荐指数：★★★★★
+  3. [jQuery+Ajax从放弃到知根知底](https://www.bilibili.com/video/BV17W41137jn?from=search&seid=14022360126928211379)  李南江  推荐指数：★★★★★
