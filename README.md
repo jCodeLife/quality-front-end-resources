@@ -22,12 +22,12 @@
 3. [jQuery+Ajax从放弃到知根知底](https://www.bilibili.com/video/BV17W41137jn?from=search&seid=14022360126928211379)  李南江  推荐指数：★★★★★
 4. [Vue.js精讲](https://www.bilibili.com/video/BV17x411J73h)  表严肃  推荐指数：★★★★★
 5. [Web前端会客厅](https://space.bilibili.com/476967789/channel/detail?cid=136330)  开课吧  推荐指数：★★★★★
-- [Vue之父尤雨溪深度解读Vue3.0的开发思路](https://www.bilibili.com/video/BV1qC4y18721)
-- [Vue之父尤雨溪深度解读Vue3.0的开发思路（中）](https://www.bilibili.com/video/BV1yK4y1s7Xh)
-- [Vue之父尤雨溪深度解读Vue3.0的开发思路（下）](https://www.bilibili.com/video/BV1ai4y137pg)
-- [“绿宝书”作者周爱民深度剖析JavaScript语言](https://www.bilibili.com/video/BV1M5411a7GK)
-- [“绿宝书”作者周爱民深度剖析JavaScript语言（二）](https://www.bilibili.com/video/BV1MK4y1v7a2)
-- [“绿宝书”作者周爱民深度剖析JavaScript语言（三）](https://www.bilibili.com/video/BV16k4y117hE)
-- [“绿宝书”作者周爱民深度剖析JavaScript语言（四）](https://www.bilibili.com/video/BV1sC4y187GW)
-- [和Hax一起探究JavaScript语言规范（上）](https://www.bilibili.com/video/BV1xT4y1L7ui)
-- [和Hax一起探究JavaScript语言规范（下）](https://www.bilibili.com/video/BV145411b7ok)
+[Vue之父尤雨溪深度解读Vue3.0的开发思路（上）](https://www.bilibili.com/video/BV1qC4y18721)
+[Vue之父尤雨溪深度解读Vue3.0的开发思路（中）](https://www.bilibili.com/video/BV1yK4y1s7Xh)
+[Vue之父尤雨溪深度解读Vue3.0的开发思路（下）](https://www.bilibili.com/video/BV1ai4y137pg)
+[“绿宝书”作者周爱民深度剖析JavaScript语言（一）](https://www.bilibili.com/video/BV1M5411a7GK)
+[“绿宝书”作者周爱民深度剖析JavaScript语言（二）](https://www.bilibili.com/video/BV1MK4y1v7a2)
+[“绿宝书”作者周爱民深度剖析JavaScript语言（三）](https://www.bilibili.com/video/BV16k4y117hE)
+[“绿宝书”作者周爱民深度剖析JavaScript语言（四）](https://www.bilibili.com/video/BV1sC4y187GW)
+[和Hax一起探究JavaScript语言规范（上）](https://www.bilibili.com/video/BV1xT4y1L7ui)
+[和Hax一起探究JavaScript语言规范（下）](https://www.bilibili.com/video/BV145411b7ok)
