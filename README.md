@@ -33,3 +33,4 @@
 [和Hax一起探究JavaScript语言规范（下）](https://www.bilibili.com/video/BV145411b7ok)
 6. [ES6经典入门到进阶](https://ke.qq.com/course/421133?taid=3532215464389901)  陈潇冰  推荐指数：★★★★★
 7. [前端阶段进阶（已完结）](https://www.bilibili.com/video/BV1oZ4y1V7tx)  推荐指数：★★★★★
+8. [Vue3快速上手指南-CompositionAPI](https://space.bilibili.com/389008815?spm_id_from=333.788.b_765f7570696e666f.2)  推荐指数：★★★★★
