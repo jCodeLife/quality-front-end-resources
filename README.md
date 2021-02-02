@@ -22,16 +22,7 @@
 2. [2分钟了解 JavaScript Event Loop](https://www.bilibili.com/video/BV1kf4y1U7Ln?from=search&seid=2734638953578049157)  峰华前端工程师  推荐指数：★★★★★
 3. [jQuery+Ajax从放弃到知根知底](https://www.bilibili.com/video/BV17W41137jn?from=search&seid=14022360126928211379)  李南江  推荐指数：★★★★★
 4. [Vue.js精讲](https://www.bilibili.com/video/BV17x411J73h)  表严肃  推荐指数：★★★★★
-5. [Web前端会客厅](https://space.bilibili.com/476967789/channel/detail?cid=136330)  开课吧  推荐指数：★★★★★<br>
-[Vue之父尤雨溪深度解读Vue3.0的开发思路（上）](https://www.bilibili.com/video/BV1qC4y18721)<br>
-[Vue之父尤雨溪深度解读Vue3.0的开发思路（中）](https://www.bilibili.com/video/BV1yK4y1s7Xh)<br>
-[Vue之父尤雨溪深度解读Vue3.0的开发思路（下）](https://www.bilibili.com/video/BV1ai4y137pg)<br>
-[“绿宝书”作者周爱民深度剖析JavaScript语言（一）](https://www.bilibili.com/video/BV1M5411a7GK)<br>
-[“绿宝书”作者周爱民深度剖析JavaScript语言（二）](https://www.bilibili.com/video/BV1MK4y1v7a2)<br>
-[“绿宝书”作者周爱民深度剖析JavaScript语言（三）](https://www.bilibili.com/video/BV16k4y117hE)<br>
-[“绿宝书”作者周爱民深度剖析JavaScript语言（四）](https://www.bilibili.com/video/BV1sC4y187GW)<br>
-[和Hax一起探究JavaScript语言规范（上）](https://www.bilibili.com/video/BV1xT4y1L7ui)<br>
-[和Hax一起探究JavaScript语言规范（下）](https://www.bilibili.com/video/BV145411b7ok)
+5. [Web前端会客厅|个人推荐看前9个视频](https://space.bilibili.com/476967789/channel/detail?cid=136330)  开课吧  推荐指数：★★★★★<br>
 6. [ES6经典入门到进阶](https://ke.qq.com/course/421133?taid=3532215464389901)  陈潇冰  推荐指数：★★★★★
 7. [前端阶段进阶（已完结）](https://www.bilibili.com/video/BV1oZ4y1V7tx)  推荐指数：★★★★★
 8. [Vue3快速上手指南-CompositionAPI](https://space.bilibili.com/389008815?spm_id_from=333.788.b_765f7570696e666f.2)  推荐指数：★★★★★
