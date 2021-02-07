@@ -29,3 +29,4 @@
 9. [尤雨溪教你写vue 高级vue教程 源码分析](https://www.bilibili.com/video/BV1d4411v7UX?p=1)  推荐指数：★★★★★
 10. [8分钟带你了解JS运行原理](https://www.bilibili.com/video/BV1vh411Z7QG) objtube的卢克儿 推荐指数：★★★★★
 11. [8分钟带你了解V8引擎是如何运行JS](https://www.bilibili.com/video/BV1zV411z7RX) objtube的卢克儿 推荐指数：★★★★★
+12. [前端学习路线分享](https://www.bilibili.com/video/BV1ZZ4y1H7rU/?spm_id_from=333.788.b_636f6d6d656e74.6) objtube的卢克儿 推荐指数：★★★★★
