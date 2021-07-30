@@ -17,6 +17,7 @@
 5. [如何参加开源项目-如何给Vue3.0提PR](https://juejin.cn/post/6844904191744278542)   然叔  推荐指数★★★★  
 6. [8个硬核技巧带你迅速提升CSS技术](https://juejin.cn/post/6908879198933221383)   JowayYoung  推荐指数★★★★  
 7. [jQuery会过时吗？](https://www.zhihu.com/question/34892985/answer/60466608)   贺师俊  推荐指数★★★★  
+8. [让你 vscode 写代码效率更高的技巧](https://juejin.cn/post/6986485485765918733)   zxg_神说要有光  推荐指数★★★★  
 ## 视频
 1. [Web前端开发JavaScript权威课堂](https://ke.qq.com/course/231577?taid=2841395744442521)  姬成  推荐指数：★★★★★
 2. [2分钟了解 JavaScript Event Loop](https://www.bilibili.com/video/BV1kf4y1U7Ln?from=search&seid=2734638953578049157)  峰华前端工程师  推荐指数：★★★★★
