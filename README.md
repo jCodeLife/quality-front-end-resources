@@ -10,6 +10,7 @@
 2. 如有侵权，烦请告知，会在第一时间下链接
 
 ## 文章
+
 1. [ECMAScript 6 入门](https://es6.ruanyifeng.com)   阮一峰  推荐指数★★★★★
 2. [Rem布局的原理解析](https://yanhaijing.com/css/2017/09/29/principle-of-rem-layout/)   颜海镜  推荐指数★★★★ 
 3. [Vue RFCs](https://github.com/vuejs/rfcs)   尤雨溪  推荐指数★★★★★
@@ -20,7 +21,11 @@
 8. [让你 vscode 写代码效率更高的技巧](https://juejin.cn/post/6986485485765918733)   zxg_神说要有光  推荐指数★★★★  
 9. [史上最全 Vue 前端代码风格指南](https://juejin.cn/post/6987349513836953607)    卡喵妹   推荐指数★★★
 10. [最全的手写JS面试题](https://juejin.cn/post/6968713283884974088)    Big shark@LX    推荐指数★★★★★
+11. [一个合格(优秀)的前端都应该阅读这些文章](https://juejin.cn/post/6844903896637259784)    Neal_yang    推荐指数★★★★
+
+
 ## 视频
+
 1. [Web前端开发JavaScript权威课堂](https://ke.qq.com/course/231577?taid=2841395744442521)  姬成  推荐指数：★★★★★
 2. [2分钟了解 JavaScript Event Loop](https://www.bilibili.com/video/BV1kf4y1U7Ln?from=search&seid=2734638953578049157)  峰华前端工程师  推荐指数：★★★★★
 3. [jQuery+Ajax从放弃到知根知底](https://www.bilibili.com/video/BV17W41137jn?from=search&seid=14022360126928211379)  李南江  推荐指数：★★★★★
