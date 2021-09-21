@@ -47,3 +47,4 @@
 12. [前端学习路线分享](https://www.bilibili.com/video/BV1ZZ4y1H7rU/?spm_id_from=333.788.b_636f6d6d656e74.6)   objtube的卢克儿   推荐指数：★★★★★
 13. [Composition API + 深度解读](https://www.bilibili.com/video/BV1my4y1m7sz?p=1) Young村长   推荐指数：★★★★★
 14. [手写webpack](https://www.bilibili.com/video/BV1dV411p7gp)    全栈然叔   推荐指数：★★★★
+15. [手把手教你学Vue3](https://space.bilibili.com/478692215/channel/detail?cid=194210&ctype=0)    晓舟报告    推荐指数：★★★★
