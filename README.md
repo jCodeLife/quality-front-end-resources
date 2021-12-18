@@ -39,6 +39,10 @@
 4. [史上最全 Vue 前端代码风格指南](https://juejin.cn/post/6987349513836953607)    卡喵妹   推荐指数★★★
 5. [101张脑图，从零开始学完Vue3（包括Vue3.2最新语法）](https://juejin.cn/post/7007710727725121566)   LBJ   推荐指数★★★★
 
+### Git
+1. [廖雪峰的Git教程open in new window](https://www.liaoxuefeng.com/wiki/896043488029600)
+2. [图解Gitopen in new window](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+3. [可视化Gitopen in new window](https://learngitbranching.js.org/?demo=&locale=zh_CN)
 
 ### 开发小技巧
 1. [让你 vscode 写代码效率更高的技巧](https://juejin.cn/post/6986485485765918733)   zxg_神说要有光  推荐指数★★★★  
@@ -96,7 +100,7 @@
 
 
 ### JS
-1.Javascript编程艺术
+1. Javascript编程艺术
 2. 红宝书| JavaScript高级程序设计（第4版）
 3. 犀牛书| Javascript犀牛书第七版
 4. 小黄书| 你不知道的javascript 上
