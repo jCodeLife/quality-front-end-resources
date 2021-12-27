@@ -50,6 +50,14 @@
 2. [掘金| 一文读懂 TypeScript 泛型及应用open in new window](https://juejin.cn/post/6844904184894980104)
 3. [掘金| 一份不可多得的 TS 学习指南（1.8W字）open in new window](https://juejin.cn/post/6872111128135073806)
 
+### Node
+1. [掘金| http缓存机制open in new window](https://juejin.cn/post/6844904116972421128)
+2. [掘金| 从0到1搭建前端异常监控系统open in new window](https://juejin.cn/post/6844904119136698381)
+3. [可视化Gitopen in new window](https://learngitbranching.js.org/?demo=&locale=zh_CN)[掘金| 基于 qiankun 的微前端最佳实践（万字长文） - 从 0 到 1 篇open in new window](https://juejin.cn/post/6844904158085021704)
+4. [字节跳动是如何落地微前端的open in new window](https://juejin.cn/post/7016911648656982024)
+5. [知乎| 迈入现代 Web 开发open in new window](https://zhuanlan.zhihu.com/p/386607009)
+6. [深入理解Node.jsopen in new window](https://yjhjstz.gitbooks.io/deep-into-node/content/)
+
 ### Git
 1. [廖雪峰的Git教程open in new window](https://www.liaoxuefeng.com/wiki/896043488029600)
 2. [图解Gitopen in new window](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
@@ -73,6 +81,28 @@
 1. [谈谈我这些年对前端框架的理解](https://juejin.cn/post/7007048306438176799)    zxg_神说要有光   推荐指数★★★★
 2. [jQuery会过时吗？](https://www.zhihu.com/question/34892985/answer/60466608)   贺师俊  推荐指数★★★★ 
 
+### 工程化
+1. [掘金| vite工程化实践，建议收藏open in new window](https://juejin.cn/post/6910014283707318279)
+2. [知乎| 迈入现代 Web 开发open in new window](https://zhuanlan.zhihu.com/p/386607009)
+3. [掘金| 前端工程化实战 - 企业级 CLI 开发open in new window](https://juejin.cn/post/6982215543017193502)
+4. [掘金| 手把手带你入门前端工程化](https://juejin.cn/post/6892003555818143752)
+
+### 性能优化
+1. [浏览器的渲染写给中高级前端关于性能优化的9大策略和6大指标open in new window](https://juejin.cn/post/6981673766178783262)
+2. [聊一聊前端性能优化open in new window](https://juejin.cn/post/6911472693405548557)
+
+### 浏览器
+1. [浏览器的渲染原理间接open in new window](https://coolshell.cn/articles/9666.html)
+2. [浏览器的工作原理open in new window](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+3. [现代浏览器工作原理 (part 1)open in new window](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+4. [现代浏览器工作原理 (part 2)open in new window](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
+5. [现代浏览器工作原理 (part 3)open in new window](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
+6. [现代浏览器工作原理 (part 4)open in new window](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
+7. [Life of a Pixel](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.g60f92a5151_40_1445)
+
+### 小程序
+1. [近两万字小程序攻略发布了](https://juejin.cn/post/6844903670589423623)
+
 ### 相关文档
 #### Vue
 1. [Vue官网open in new window](https://v3.cn.vuejs.org/)
@@ -92,6 +122,18 @@
 1. [TS中文网open in new window](https://www.tslang.cn/docs/handbook/basic-types.html)
 2. [Ant Design Pro官网open in new window](https://pro.ant.design/)
 
+#### Node
+1. [Node.js中文网open in new window](http://nodejs.cn/)
+2. [Egg.js官网open in new window](https://eggjs.org/zh-cn/intro/)
+3. [饿了么Node-interviewopen in new window](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
+4. [如何正确的学习Node.jsopen in new window](https://github.com/i5ting/How-to-learn-node-correctly)
+5. [七天学会Node.jsopen in new window](http://nqdeng.github.io/7-days-nodejs/)
+
+#### 小程序
+1. [小程序开发文档open in new window](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/)
+2. [云开发文档open in new window](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+3. [Uni-app官网open in new window](https://uniapp.dcloud.io/)
+4. [Taro官网open in new window](https://taro.jd.com/)
 
 ## 二、视频
 ### JS
@@ -128,6 +170,7 @@
 2. [前端阶段进阶（已完结）](https://www.bilibili.com/video/BV1oZ4y1V7tx)  推荐指数：★★★★★
 3. [Node.js经典教程](https://www.bilibili.com/video/BV13s411M7Ab?spm_id_from=333.999.0.0)    blue    推荐指数：★★★
 4. [手写webpack](https://www.bilibili.com/video/BV1dV411p7gp)    全栈然叔   推荐指数：★★★★
+5. [B站: 然叔天天造轮子-Viteopen in new window](https://www.bilibili.com/video/BV1Df4y1n777?spm_id_from=333.999.0.0)
 
 ### JS引擎
 1. [8分钟带你了解V8引擎是如何运行JS](https://www.bilibili.com/video/BV1zV411z7RX)  objtube的卢克儿   推荐指数：★★★★★
@@ -145,6 +188,14 @@
 ### 网站搭建
 1. [B站| 手把手带你从0搭建个人网站，小白可懂的保姆级教程open in new window](https://www.bilibili.com/video/BV1rU4y1J785)
 2. [B站| 手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo](https://www.bilibili.com/video/BV1Yb411a7ty/?spm_id_from=333.788.recommend_more_video.8)
+
+
+### 浏览器
+1. [像素的一生Life of a Pixelopen in new window](https://www.bilibili.com/video/av35265997/)
+2. [浏览器是如何运作的？](https://www.bilibili.com/video/BV1x54y1B7RE/)
+
+### 小程序
+1. [B站| uniCloud开发实战：拍照识别垃圾分类应用 跨端云开发 uniapp ](https://www.bilibili.com/video/BV1y3411i7VK)
 
 ## 三、书籍
 
@@ -173,3 +224,11 @@
 1. [TypeScript 入门教程](https://ts.xcatliu.com/)
 2. [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
 
+### Node
+1. [Node源码解析open in new window](https://11111-1252105172.cos.ap-shanghai.myqcloud.com/understand-nodejs%EF%BC%88%E5%B8%A6%E6%A0%87%E7%AD%BE%E7%89%88%EF%BC%89.pdf)
+2. [深入浅出Node.js(进阶)open in new window](https://book.douban.com/subject/25768396/)
+3. [设计数据密集型应用open in new window](https://book.douban.com/subject/30329536/)
+
+
+### 浏览器
+1. [WebKit 技术内幕](https://book.douban.com/subject/25910556/)
