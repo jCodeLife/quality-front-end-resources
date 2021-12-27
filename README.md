@@ -102,7 +102,7 @@
 4. 小黄书| 你不知道的javascript 上
 5. 小黄书| 你不知道的javascript 中
 6. Javasript二十年
-7. 绿宝书
+7. 绿宝书| JavaScript语言精髓与编程实践（第3版）
 8. 前端开发核心知识进阶
 
 
