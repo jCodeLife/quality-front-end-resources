@@ -34,6 +34,11 @@
 3. [如何参加开源项目-如何给Vue3.0提PR](https://juejin.cn/post/6844904191744278542)   然叔  推荐指数★★★★  
 4. [史上最全 Vue 前端代码风格指南](https://juejin.cn/post/6987349513836953607)    卡喵妹   推荐指数★★★
 5. [101张脑图，从零开始学完Vue3（包括Vue3.2最新语法）](https://juejin.cn/post/7007710727725121566)   LBJ   推荐指数★★★★
+6. [实现最简 vue3 模型open in new window](https://github.com/cuixiaorui/mini-vue)
+7. [掘金| [Vue官方教程笔记]- 尤雨溪手写mini-vueopen in new window](https://juejin.cn/post/6911897255087702030)
+8. [掘金| 10分钟体验Vue3全家桶(Vue3 + VueRouter4 + Vuex4)open in new window](https://juejin.cn/post/6844904150082256903)
+9. [掘金| 10.23尤雨溪在早早聊直播分享总结：vue3生态发展现状和展望open in new window](https://juejin.cn/post/7022137486407106591)
+10. [掘金| 2021必知必会的vite+vue3项目最佳实践](https://juejin.cn/post/6926822933721513998)
 
 ### Git
 1. [廖雪峰的Git教程open in new window](https://www.liaoxuefeng.com/wiki/896043488029600)
