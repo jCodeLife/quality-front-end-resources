@@ -137,5 +137,7 @@
 7. 绿宝书| JavaScript语言精髓与编程实践（第3版）
 8. 前端开发核心知识进阶
 
-
+### Vue
+1. [深入浅出Vue.jsopen in new window](https://book.douban.com/subject/32581281/)
+2. [Testing Vue.js Applications](https://book.douban.com/subject/33338290/)
 
