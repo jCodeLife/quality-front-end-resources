@@ -96,6 +96,11 @@
 2. [B站| 现场点评9个程序员简历 -- 有喷有夸open in new window](https://www.bilibili.com/video/BV1g54y1p7yV?spm_id_from=333.999.0.0)
 3. [B站| 【花果山自习室02】想进大厂？简历要这么写](https://www.bilibili.com/video/BV1FB4y1T7CP?spm_id_from=333.999.0.0)
 
+
+### 网站搭建
+1. [B站| 手把手带你从0搭建个人网站，小白可懂的保姆级教程open in new window](https://www.bilibili.com/video/BV1rU4y1J785)
+2. [B站| 手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo](https://www.bilibili.com/video/BV1Yb411a7ty/?spm_id_from=333.788.recommend_more_video.8)
+
 ## 三、书籍
 
 ### CSS
