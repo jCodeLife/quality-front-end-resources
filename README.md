@@ -88,7 +88,12 @@
 3. [尤雨溪教你写vue 高级vue教程 源码分析](https://www.bilibili.com/video/BV1d4411v7UX?p=1)   推荐指数：★★★★★
 4. [手把手教你学Vue3](https://space.bilibili.com/478692215/channel/detail?cid=194210&ctype=0)    晓舟报告    推荐指数：★★★★
 5. [Composition API + 深度解读](https://www.bilibili.com/video/BV1my4y1m7sz?p=1) Young村长   推荐指数：★★★★★
-
+6. [React 与 Vue 框架的设计思路大 PKopen in new window](https://www.bilibili.com/video/BV1az4y127Ga/)
+7. [B站| 阮一峰推荐最佳学习 vue3 源码的利器 - mini-vueopen in new window](https://www.bilibili.com/video/BV1Zy4y1J73E?spm_id_from=333.999.0.0)
+8. [B站| 8年老前端独家分享阅读 Vue3 源码技巧open in new window](https://www.bilibili.com/video/BV1xy4y1178G?spm_id_from=333.999.0.0)
+9. [B站| 【全网首发】Vue3.0光速上手「持续更新中」open in new window](https://www.bilibili.com/video/BV1Wh411X7Xp?spm_id_from=333.999.0.0)
+10. [B站| 【备战2021】Vite2 + Vue3项目最佳实践「持续更新中」open in new window](https://www.bilibili.com/video/BV1vX4y1K7bQ?spm_id_from=333.999.0.0)
+11. [B站| Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ?spm_id_from=333.999.0.0)
 
 ### Node
 1. [Web前端会客厅|个人推荐看前9个视频](https://space.bilibili.com/476967789/channel/detail?cid=136330)  开课吧  推荐指数：★★★★★<br>
