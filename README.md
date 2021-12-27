@@ -165,21 +165,21 @@
 ## 三、书籍
 
 ### CSS
-1. 精通 CSS
-2. CSS 权威指南
-3. 深入解析 CSS
-4. CSS 揭秘
+1. [精通 CSS](https://book.douban.com/subject/30450258/)
+2. [CSS 权威指南](https://book.douban.com/subject/2308234/)
+3. [深入解析 CSS](https://book.douban.com/subject/35021471/)
+4. [CSS 揭秘](https://book.douban.com/subject/26745943/)
 
 
 ### JS
-1. Javascript编程艺术
-2. 红宝书| JavaScript高级程序设计（第4版）
-3. 犀牛书| Javascript犀牛书第七版
-4. 小黄书| 你不知道的javascript 上
-5. 小黄书| 你不知道的javascript 中
-6. Javasript二十年
-7. 绿宝书| JavaScript语言精髓与编程实践（第3版）
-8. 前端开发核心知识进阶
+1. [Javascript编程艺术](https://book.douban.com/subject/6038371/)
+2. [红宝书| JavaScript高级程序设计（第4版）](https://book.douban.com/subject/10546125/)
+3. [犀牛书| Javascript犀牛书第七版](https://book.douban.com/subject/10549733/)
+4. [小黄书| 你不知道的javascript 上](https://book.douban.com/subject/26351021/)
+5. [小黄书| 你不知道的javascript 中](https://book.douban.com/subject/26854244/)
+6. [Javasript二十年](https://book.douban.com/subject/35446937/)
+7. [绿宝书| JavaScript语言精髓与编程实践（第3版）](https://book.douban.com/subject/35085910/)
+8. [前端开发核心知识进阶](https://book.douban.com/subject/35218831/)
 
 ### Vue
 1. [深入浅出Vue.js](https://book.douban.com/subject/32581281/)
