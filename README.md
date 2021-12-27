@@ -47,6 +47,12 @@
 ### 面试
 1. [一个合格(优秀)的前端都应该阅读这些文章](https://juejin.cn/post/6844903896637259784)    Neal_yang    推荐指数★★★★
 2. [专有钉钉前端面试指南](https://juejin.cn/post/6986436944913924103)  专有钉钉前端团队     推荐指数★★★
+3. [掘金| 中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)open in new window](https://juejin.cn/post/6844903776512393224)
+4. [掘金| 面试分享：两年工作经验成功面试阿里P6总结open in new window](https://juejin.cn/post/6844903928442667015)
+5. [掘金| 写给女朋友的中级前端面试秘籍（含详细答案，15k级别）open in new window](https://juejin.cn/post/6844904115428917255)
+6. [掘金| 「中高级前端面试」JavaScript手写代码无敌秘籍open in new window](https://juejin.cn/post/6844903809206976520)
+7. [Github| 前端进阶之道open in new window](https://yuchengkai.cn/)
+8. [Github| 前端3+1面试题库](https://github.com/haizlin/fe-interview)
 
 ### 行业杂谈
 1. [谈谈我这些年对前端框架的理解](https://juejin.cn/post/7007048306438176799)    zxg_神说要有光   推荐指数★★★★
