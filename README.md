@@ -91,6 +91,10 @@
 
 1. [前端学习路线分享](https://www.bilibili.com/video/BV1ZZ4y1H7rU/?spm_id_from=333.788.b_636f6d6d656e74.6)   objtube的卢克儿   推荐指数：★★★★★
 
+### 面试
+1. [B站| 程序员简历点评第二期：能吃苦和能吃open in new window](https://www.bilibili.com/video/BV1av411w7oa)
+2. [B站| 现场点评9个程序员简历 -- 有喷有夸open in new window](https://www.bilibili.com/video/BV1g54y1p7yV?spm_id_from=333.999.0.0)
+3. [B站| 【花果山自习室02】想进大厂？简历要这么写](https://www.bilibili.com/video/BV1FB4y1T7CP?spm_id_from=333.999.0.0)
 
 ## 三、书籍
 
