@@ -98,37 +98,7 @@
 ### 小程序
 1. [近两万字小程序攻略发布了](https://juejin.cn/post/6844903670589423623)
 
-### 相关文档
-#### Vue
-1. [Vue官网](https://v3.cn.vuejs.org/)
-2. [Vite官网](https://cn.vitejs.dev/)
-3. [Naive UI官网](https://www.naiveui.com/zh-CN/os-theme)
-4. [Ant Design Vue官网](https://next.antdv.com/components/overview/)
-5. [Element Plus](https://element-plus.gitee.io/zh-CN/)
-6. [Element3 官网](https://e3.shengxinjing.cn/#/)
 
-#### React
-1. [React官网](https://react.docschina.org/)
-2. [Ant.design 官网](https://ant.design/index-cn)
-3. [Ant Design Pro官网](https://pro.ant.design/)
-4. [Umi官网](https://umijs.org/zh-CN/docs)
-
-#### TS
-1. [TS中文网](https://www.tslang.cn/docs/handbook/basic-types.html)
-2. [Ant Design Pro官网](https://pro.ant.design/)
-
-#### Node
-1. [Node.js中文网](http://nodejs.cn/)
-2. [Egg.js官网](https://eggjs.org/zh-cn/intro/)
-3. [饿了么Node-interview](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
-4. [如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
-5. [七天学会Node.js](http://nqdeng.github.io/7-days-nodejs/)
-
-#### 小程序
-1. [小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/)
-2. [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
-3. [Uni-app官网](https://uniapp.dcloud.io/)
-4. [Taro官网](https://taro.jd.com/)
 
 ## 二、视频
 ### JS
@@ -227,3 +197,36 @@
 
 ### 浏览器
 1. [WebKit 技术内幕](https://book.douban.com/subject/25910556/)
+
+
+## 相关文档
+### Vue
+1. [Vue官网](https://v3.cn.vuejs.org/)
+2. [Vite官网](https://cn.vitejs.dev/)
+3. [Naive UI官网](https://www.naiveui.com/zh-CN/os-theme)
+4. [Ant Design Vue官网](https://next.antdv.com/components/overview/)
+5. [Element Plus](https://element-plus.gitee.io/zh-CN/)
+6. [Element3 官网](https://e3.shengxinjing.cn/#/)
+
+### React
+1. [React官网](https://react.docschina.org/)
+2. [Ant.design 官网](https://ant.design/index-cn)
+3. [Ant Design Pro官网](https://pro.ant.design/)
+4. [Umi官网](https://umijs.org/zh-CN/docs)
+
+### TS
+1. [TS中文网](https://www.tslang.cn/docs/handbook/basic-types.html)
+2. [Ant Design Pro官网](https://pro.ant.design/)
+
+### Node
+1. [Node.js中文网](http://nodejs.cn/)
+2. [Egg.js官网](https://eggjs.org/zh-cn/intro/)
+3. [饿了么Node-interview](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
+4. [如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
+5. [七天学会Node.js](http://nqdeng.github.io/7-days-nodejs/)
+
+### 小程序
+1. [小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/)
+2. [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+3. [Uni-app官网](https://uniapp.dcloud.io/)
+4. [Taro官网](https://taro.jd.com/)
