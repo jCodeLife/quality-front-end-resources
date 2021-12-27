@@ -40,6 +40,16 @@
 9. [掘金| 10.23尤雨溪在早早聊直播分享总结：vue3生态发展现状和展望open in new window](https://juejin.cn/post/7022137486407106591)
 10. [掘金| 2021必知必会的vite+vue3项目最佳实践](https://juejin.cn/post/6926822933721513998)
 
+### React
+1. [掘金| 这可能是最通俗的 React Fiber(时间分片) 打开方式open in new window](https://juejin.cn/post/6844903975112671239)
+2. [掘金| React全部api解读+基础实践大全(夯实基础2万字总结)open in new window](https://juejin.cn/post/6950063294270930980)
+3. [公众号| React Concurrent Mode 初识&探秘open in new window](https://mp.weixin.qq.com/s/WUVVpEoXdhVOlwtjgpLX5A)
+
+### TS
+1. [掘金| TypeScript 高级用法open in new window](https://juejin.cn/post/6926794697553739784)
+2. [掘金| 一文读懂 TypeScript 泛型及应用open in new window](https://juejin.cn/post/6844904184894980104)
+3. [掘金| 一份不可多得的 TS 学习指南（1.8W字）open in new window](https://juejin.cn/post/6872111128135073806)
+
 ### Git
 1. [廖雪峰的Git教程open in new window](https://www.liaoxuefeng.com/wiki/896043488029600)
 2. [图解Gitopen in new window](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
@@ -78,6 +88,11 @@
 3. [Ant Design Pro官网open in new window](https://pro.ant.design/)
 4. [Umi官网open in new window](https://umijs.org/zh-CN/docs)
 
+#### TS
+1. [TS中文网open in new window](https://www.tslang.cn/docs/handbook/basic-types.html)
+2. [Ant Design Pro官网open in new window](https://pro.ant.design/)
+
+
 ## 二、视频
 ### JS
 1. [Web前端开发JavaScript权威课堂](https://ke.qq.com/course/231577?taid=2841395744442521)  姬成  推荐指数：★★★★★
@@ -101,6 +116,12 @@
 9. [B站| 【全网首发】Vue3.0光速上手「持续更新中」open in new window](https://www.bilibili.com/video/BV1Wh411X7Xp?spm_id_from=333.999.0.0)
 10. [B站| 【备战2021】Vite2 + Vue3项目最佳实践「持续更新中」open in new window](https://www.bilibili.com/video/BV1vX4y1K7bQ?spm_id_from=333.999.0.0)
 11. [B站| Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ?spm_id_from=333.999.0.0)
+
+### React
+1. [B站| React 与 Vue 框架的设计思路大 PKopen in new window](https://www.bilibili.com/video/BV1az4y127Ga/)
+2. [B站| 9分钟掌握React Hooks正确认知open in new window](https://www.bilibili.com/video/BV1JU4y1E73v?from=search&seid=1480540993076541477)
+3. [B站| 你必须要掌握的React知识点open in new window](https://www.bilibili.com/video/BV1rK411F7x3)
+4. [B站| 从0到1开发可视化拖拽H5编辑器(React)](https://www.bilibili.com/video/BV14b4y1R7hk)
 
 ### Node
 1. [Web前端会客厅|个人推荐看前9个视频](https://space.bilibili.com/476967789/channel/detail?cid=136330)  开课吧  推荐指数：★★★★★<br>
@@ -145,6 +166,10 @@
 8. 前端开发核心知识进阶
 
 ### Vue
-1. [深入浅出Vue.jsopen in new window](https://book.douban.com/subject/32581281/)
+1. [深入浅出Vue.js](https://book.douban.com/subject/32581281/)
 2. [Testing Vue.js Applications](https://book.douban.com/subject/33338290/)
+
+### TS
+1. [TypeScript 入门教程](https://ts.xcatliu.com/)
+2. [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
 
