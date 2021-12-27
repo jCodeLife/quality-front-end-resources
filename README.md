@@ -17,10 +17,10 @@
 1. [ECMAScript 6 入门](https://es6.ruanyifeng.com)   阮一峰  推荐指数★★★★★
 2. [最全的手写JS面试题](https://juejin.cn/post/6968713283884974088)    Big shark@LX    推荐指数★★★★★
 3. [看了就会，手写Promise原理，最通俗易懂的版本！！！](https://juejin.cn/post/6994594642280857630)    Sunshine_Lin    推荐指数★★★★
-4. [这一次，彻底弄懂 JavaScript 执行机制open in new window](https://juejin.cn/post/6844903512845860872)
-5. [由浅入深，66条JavaScript面试知识点open in new window](https://juejin.cn/post/6844904200917221389)
-6. [JavaScript深入系列15篇正式完结！open in new window](https://juejin.cn/post/6844903479429824526)
-7. [「中高级前端面试」JavaScript手写代码无敌秘籍open in new window](https://juejin.cn/post/6844903809206976520)
+4. [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.cn/post/6844903512845860872)
+5. [由浅入深，66条JavaScript面试知识点](https://juejin.cn/post/6844904200917221389)
+6. [JavaScript深入系列15篇正式完结！](https://juejin.cn/post/6844903479429824526)
+7. [「中高级前端面试」JavaScript手写代码无敌秘籍](https://juejin.cn/post/6844903809206976520)
 8. [现代 JavaScript 教程](https://zh.javascript.info/)
 
 ### CSS
@@ -34,34 +34,34 @@
 3. [如何参加开源项目-如何给Vue3.0提PR](https://juejin.cn/post/6844904191744278542)   然叔  推荐指数★★★★  
 4. [史上最全 Vue 前端代码风格指南](https://juejin.cn/post/6987349513836953607)    卡喵妹   推荐指数★★★
 5. [101张脑图，从零开始学完Vue3（包括Vue3.2最新语法）](https://juejin.cn/post/7007710727725121566)   LBJ   推荐指数★★★★
-6. [实现最简 vue3 模型open in new window](https://github.com/cuixiaorui/mini-vue)
-7. [掘金| [Vue官方教程笔记]- 尤雨溪手写mini-vueopen in new window](https://juejin.cn/post/6911897255087702030)
-8. [掘金| 10分钟体验Vue3全家桶(Vue3 + VueRouter4 + Vuex4)open in new window](https://juejin.cn/post/6844904150082256903)
-9. [掘金| 10.23尤雨溪在早早聊直播分享总结：vue3生态发展现状和展望open in new window](https://juejin.cn/post/7022137486407106591)
+6. [实现最简 vue3 模型](https://github.com/cuixiaorui/mini-vue)
+7. [掘金| [Vue官方教程笔记]- 尤雨溪手写mini-vue](https://juejin.cn/post/6911897255087702030)
+8. [掘金| 10分钟体验Vue3全家桶(Vue3 + VueRouter4 + Vuex4)](https://juejin.cn/post/6844904150082256903)
+9. [掘金| 10.23尤雨溪在早早聊直播分享总结：vue3生态发展现状和展望](https://juejin.cn/post/7022137486407106591)
 10. [掘金| 2021必知必会的vite+vue3项目最佳实践](https://juejin.cn/post/6926822933721513998)
 
 ### React
-1. [掘金| 这可能是最通俗的 React Fiber(时间分片) 打开方式open in new window](https://juejin.cn/post/6844903975112671239)
-2. [掘金| React全部api解读+基础实践大全(夯实基础2万字总结)open in new window](https://juejin.cn/post/6950063294270930980)
-3. [公众号| React Concurrent Mode 初识&探秘open in new window](https://mp.weixin.qq.com/s/WUVVpEoXdhVOlwtjgpLX5A)
+1. [掘金| 这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
+2. [掘金| React全部api解读+基础实践大全(夯实基础2万字总结)](https://juejin.cn/post/6950063294270930980)
+3. [公众号| React Concurrent Mode 初识&探秘](https://mp.weixin.qq.com/s/WUVVpEoXdhVOlwtjgpLX5A)
 
 ### TS
-1. [掘金| TypeScript 高级用法open in new window](https://juejin.cn/post/6926794697553739784)
-2. [掘金| 一文读懂 TypeScript 泛型及应用open in new window](https://juejin.cn/post/6844904184894980104)
-3. [掘金| 一份不可多得的 TS 学习指南（1.8W字）open in new window](https://juejin.cn/post/6872111128135073806)
+1. [掘金| TypeScript 高级用法](https://juejin.cn/post/6926794697553739784)
+2. [掘金| 一文读懂 TypeScript 泛型及应用](https://juejin.cn/post/6844904184894980104)
+3. [掘金| 一份不可多得的 TS 学习指南（1.8W字）](https://juejin.cn/post/6872111128135073806)
 
 ### Node
-1. [掘金| http缓存机制open in new window](https://juejin.cn/post/6844904116972421128)
-2. [掘金| 从0到1搭建前端异常监控系统open in new window](https://juejin.cn/post/6844904119136698381)
-3. [可视化Gitopen in new window](https://learngitbranching.js.org/?demo=&locale=zh_CN)[掘金| 基于 qiankun 的微前端最佳实践（万字长文） - 从 0 到 1 篇open in new window](https://juejin.cn/post/6844904158085021704)
-4. [字节跳动是如何落地微前端的open in new window](https://juejin.cn/post/7016911648656982024)
-5. [知乎| 迈入现代 Web 开发open in new window](https://zhuanlan.zhihu.com/p/386607009)
-6. [深入理解Node.jsopen in new window](https://yjhjstz.gitbooks.io/deep-into-node/content/)
+1. [掘金| http缓存机制](https://juejin.cn/post/6844904116972421128)
+2. [掘金| 从0到1搭建前端异常监控系统](https://juejin.cn/post/6844904119136698381)
+3. [可视化Git](https://learngitbranching.js.org/?demo=&locale=zh_CN)[掘金| 基于 qiankun 的微前端最佳实践（万字长文） - 从 0 到 1 篇](https://juejin.cn/post/6844904158085021704)
+4. [字节跳动是如何落地微前端的](https://juejin.cn/post/7016911648656982024)
+5. [知乎| 迈入现代 Web 开发](https://zhuanlan.zhihu.com/p/386607009)
+6. [深入理解Node.js](https://yjhjstz.gitbooks.io/deep-into-node/content/)
 
 ### Git
-1. [廖雪峰的Git教程open in new window](https://www.liaoxuefeng.com/wiki/896043488029600)
-2. [图解Gitopen in new window](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
-3. [可视化Gitopen in new window](https://learngitbranching.js.org/?demo=&locale=zh_CN)
+1. [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+2. [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+3. [可视化Git](https://learngitbranching.js.org/?demo=&locale=zh_CN)
 
 ### 开发小技巧
 1. [让你 vscode 写代码效率更高的技巧](https://juejin.cn/post/6986485485765918733)   zxg_神说要有光  推荐指数★★★★  
@@ -70,11 +70,11 @@
 ### 面试
 1. [一个合格(优秀)的前端都应该阅读这些文章](https://juejin.cn/post/6844903896637259784)    Neal_yang    推荐指数★★★★
 2. [专有钉钉前端面试指南](https://juejin.cn/post/6986436944913924103)  专有钉钉前端团队     推荐指数★★★
-3. [掘金| 中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)open in new window](https://juejin.cn/post/6844903776512393224)
-4. [掘金| 面试分享：两年工作经验成功面试阿里P6总结open in new window](https://juejin.cn/post/6844903928442667015)
-5. [掘金| 写给女朋友的中级前端面试秘籍（含详细答案，15k级别）open in new window](https://juejin.cn/post/6844904115428917255)
-6. [掘金| 「中高级前端面试」JavaScript手写代码无敌秘籍open in new window](https://juejin.cn/post/6844903809206976520)
-7. [Github| 前端进阶之道open in new window](https://yuchengkai.cn/)
+3. [掘金| 中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.cn/post/6844903776512393224)
+4. [掘金| 面试分享：两年工作经验成功面试阿里P6总结](https://juejin.cn/post/6844903928442667015)
+5. [掘金| 写给女朋友的中级前端面试秘籍（含详细答案，15k级别）](https://juejin.cn/post/6844904115428917255)
+6. [掘金| 「中高级前端面试」JavaScript手写代码无敌秘籍](https://juejin.cn/post/6844903809206976520)
+7. [Github| 前端进阶之道](https://yuchengkai.cn/)
 8. [Github| 前端3+1面试题库](https://github.com/haizlin/fe-interview)
 
 ### 行业杂谈
@@ -82,22 +82,22 @@
 2. [jQuery会过时吗？](https://www.zhihu.com/question/34892985/answer/60466608)   贺师俊  推荐指数★★★★ 
 
 ### 工程化
-1. [掘金| vite工程化实践，建议收藏open in new window](https://juejin.cn/post/6910014283707318279)
-2. [知乎| 迈入现代 Web 开发open in new window](https://zhuanlan.zhihu.com/p/386607009)
-3. [掘金| 前端工程化实战 - 企业级 CLI 开发open in new window](https://juejin.cn/post/6982215543017193502)
+1. [掘金| vite工程化实践，建议收藏](https://juejin.cn/post/6910014283707318279)
+2. [知乎| 迈入现代 Web 开发](https://zhuanlan.zhihu.com/p/386607009)
+3. [掘金| 前端工程化实战 - 企业级 CLI 开发](https://juejin.cn/post/6982215543017193502)
 4. [掘金| 手把手带你入门前端工程化](https://juejin.cn/post/6892003555818143752)
 
 ### 性能优化
-1. [浏览器的渲染写给中高级前端关于性能优化的9大策略和6大指标open in new window](https://juejin.cn/post/6981673766178783262)
-2. [聊一聊前端性能优化open in new window](https://juejin.cn/post/6911472693405548557)
+1. [浏览器的渲染写给中高级前端关于性能优化的9大策略和6大指标](https://juejin.cn/post/6981673766178783262)
+2. [聊一聊前端性能优化](https://juejin.cn/post/6911472693405548557)
 
 ### 浏览器
-1. [浏览器的渲染原理间接open in new window](https://coolshell.cn/articles/9666.html)
-2. [浏览器的工作原理open in new window](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
-3. [现代浏览器工作原理 (part 1)open in new window](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
-4. [现代浏览器工作原理 (part 2)open in new window](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
-5. [现代浏览器工作原理 (part 3)open in new window](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
-6. [现代浏览器工作原理 (part 4)open in new window](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
+1. [浏览器的渲染原理间接](https://coolshell.cn/articles/9666.html)
+2. [浏览器的工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+3. [现代浏览器工作原理 (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+4. [现代浏览器工作原理 (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
+5. [现代浏览器工作原理 (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
+6. [现代浏览器工作原理 (part 4)](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
 7. [Life of a Pixel](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.g60f92a5151_40_1445)
 
 ### 小程序
@@ -105,35 +105,35 @@
 
 ### 相关文档
 #### Vue
-1. [Vue官网open in new window](https://v3.cn.vuejs.org/)
-2. [Vite官网open in new window](https://cn.vitejs.dev/)
-3. [Naive UI官网open in new window](https://www.naiveui.com/zh-CN/os-theme)
-4. [Ant Design Vue官网open in new window](https://next.antdv.com/components/overview/)
-5. [Element Plusopen in new window](https://element-plus.gitee.io/zh-CN/)
-6. [Element3 官网open in new window](https://e3.shengxinjing.cn/#/)
+1. [Vue官网](https://v3.cn.vuejs.org/)
+2. [Vite官网](https://cn.vitejs.dev/)
+3. [Naive UI官网](https://www.naiveui.com/zh-CN/os-theme)
+4. [Ant Design Vue官网](https://next.antdv.com/components/overview/)
+5. [Element Plus](https://element-plus.gitee.io/zh-CN/)
+6. [Element3 官网](https://e3.shengxinjing.cn/#/)
 
 #### React
-1. [React官网open in new window](https://react.docschina.org/)
-2. [Ant.design 官网open in new window](https://ant.design/index-cn)
-3. [Ant Design Pro官网open in new window](https://pro.ant.design/)
-4. [Umi官网open in new window](https://umijs.org/zh-CN/docs)
+1. [React官网](https://react.docschina.org/)
+2. [Ant.design 官网](https://ant.design/index-cn)
+3. [Ant Design Pro官网](https://pro.ant.design/)
+4. [Umi官网](https://umijs.org/zh-CN/docs)
 
 #### TS
-1. [TS中文网open in new window](https://www.tslang.cn/docs/handbook/basic-types.html)
-2. [Ant Design Pro官网open in new window](https://pro.ant.design/)
+1. [TS中文网](https://www.tslang.cn/docs/handbook/basic-types.html)
+2. [Ant Design Pro官网](https://pro.ant.design/)
 
 #### Node
-1. [Node.js中文网open in new window](http://nodejs.cn/)
-2. [Egg.js官网open in new window](https://eggjs.org/zh-cn/intro/)
-3. [饿了么Node-interviewopen in new window](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
-4. [如何正确的学习Node.jsopen in new window](https://github.com/i5ting/How-to-learn-node-correctly)
-5. [七天学会Node.jsopen in new window](http://nqdeng.github.io/7-days-nodejs/)
+1. [Node.js中文网](http://nodejs.cn/)
+2. [Egg.js官网](https://eggjs.org/zh-cn/intro/)
+3. [饿了么Node-interview](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
+4. [如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
+5. [七天学会Node.js](http://nqdeng.github.io/7-days-nodejs/)
 
 #### 小程序
-1. [小程序开发文档open in new window](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/)
-2. [云开发文档open in new window](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
-3. [Uni-app官网open in new window](https://uniapp.dcloud.io/)
-4. [Taro官网open in new window](https://taro.jd.com/)
+1. [小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/)
+2. [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+3. [Uni-app官网](https://uniapp.dcloud.io/)
+4. [Taro官网](https://taro.jd.com/)
 
 ## 二、视频
 ### JS
@@ -152,17 +152,17 @@
 3. [尤雨溪教你写vue 高级vue教程 源码分析](https://www.bilibili.com/video/BV1d4411v7UX?p=1)   推荐指数：★★★★★
 4. [手把手教你学Vue3](https://space.bilibili.com/478692215/channel/detail?cid=194210&ctype=0)    晓舟报告    推荐指数：★★★★
 5. [Composition API + 深度解读](https://www.bilibili.com/video/BV1my4y1m7sz?p=1) Young村长   推荐指数：★★★★★
-6. [React 与 Vue 框架的设计思路大 PKopen in new window](https://www.bilibili.com/video/BV1az4y127Ga/)
-7. [B站| 阮一峰推荐最佳学习 vue3 源码的利器 - mini-vueopen in new window](https://www.bilibili.com/video/BV1Zy4y1J73E?spm_id_from=333.999.0.0)
-8. [B站| 8年老前端独家分享阅读 Vue3 源码技巧open in new window](https://www.bilibili.com/video/BV1xy4y1178G?spm_id_from=333.999.0.0)
-9. [B站| 【全网首发】Vue3.0光速上手「持续更新中」open in new window](https://www.bilibili.com/video/BV1Wh411X7Xp?spm_id_from=333.999.0.0)
-10. [B站| 【备战2021】Vite2 + Vue3项目最佳实践「持续更新中」open in new window](https://www.bilibili.com/video/BV1vX4y1K7bQ?spm_id_from=333.999.0.0)
+6. [React 与 Vue 框架的设计思路大 PK](https://www.bilibili.com/video/BV1az4y127Ga/)
+7. [B站| 阮一峰推荐最佳学习 vue3 源码的利器 - mini-vue](https://www.bilibili.com/video/BV1Zy4y1J73E?spm_id_from=333.999.0.0)
+8. [B站| 8年老前端独家分享阅读 Vue3 源码技巧](https://www.bilibili.com/video/BV1xy4y1178G?spm_id_from=333.999.0.0)
+9. [B站| 【全网首发】Vue3.0光速上手「持续更新中」](https://www.bilibili.com/video/BV1Wh411X7Xp?spm_id_from=333.999.0.0)
+10. [B站| 【备战2021】Vite2 + Vue3项目最佳实践「持续更新中」](https://www.bilibili.com/video/BV1vX4y1K7bQ?spm_id_from=333.999.0.0)
 11. [B站| Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ?spm_id_from=333.999.0.0)
 
 ### React
-1. [B站| React 与 Vue 框架的设计思路大 PKopen in new window](https://www.bilibili.com/video/BV1az4y127Ga/)
-2. [B站| 9分钟掌握React Hooks正确认知open in new window](https://www.bilibili.com/video/BV1JU4y1E73v?from=search&seid=1480540993076541477)
-3. [B站| 你必须要掌握的React知识点open in new window](https://www.bilibili.com/video/BV1rK411F7x3)
+1. [B站| React 与 Vue 框架的设计思路大 PK](https://www.bilibili.com/video/BV1az4y127Ga/)
+2. [B站| 9分钟掌握React Hooks正确认知](https://www.bilibili.com/video/BV1JU4y1E73v?from=search&seid=1480540993076541477)
+3. [B站| 你必须要掌握的React知识点](https://www.bilibili.com/video/BV1rK411F7x3)
 4. [B站| 从0到1开发可视化拖拽H5编辑器(React)](https://www.bilibili.com/video/BV14b4y1R7hk)
 
 ### Node
@@ -170,7 +170,7 @@
 2. [前端阶段进阶（已完结）](https://www.bilibili.com/video/BV1oZ4y1V7tx)  推荐指数：★★★★★
 3. [Node.js经典教程](https://www.bilibili.com/video/BV13s411M7Ab?spm_id_from=333.999.0.0)    blue    推荐指数：★★★
 4. [手写webpack](https://www.bilibili.com/video/BV1dV411p7gp)    全栈然叔   推荐指数：★★★★
-5. [B站: 然叔天天造轮子-Viteopen in new window](https://www.bilibili.com/video/BV1Df4y1n777?spm_id_from=333.999.0.0)
+5. [B站: 然叔天天造轮子-Vite](https://www.bilibili.com/video/BV1Df4y1n777?spm_id_from=333.999.0.0)
 
 ### JS引擎
 1. [8分钟带你了解V8引擎是如何运行JS](https://www.bilibili.com/video/BV1zV411z7RX)  objtube的卢克儿   推荐指数：★★★★★
@@ -180,18 +180,18 @@
 1. [前端学习路线分享](https://www.bilibili.com/video/BV1ZZ4y1H7rU/?spm_id_from=333.788.b_636f6d6d656e74.6)   objtube的卢克儿   推荐指数：★★★★★
 
 ### 面试
-1. [B站| 程序员简历点评第二期：能吃苦和能吃open in new window](https://www.bilibili.com/video/BV1av411w7oa)
-2. [B站| 现场点评9个程序员简历 -- 有喷有夸open in new window](https://www.bilibili.com/video/BV1g54y1p7yV?spm_id_from=333.999.0.0)
+1. [B站| 程序员简历点评第二期：能吃苦和能吃](https://www.bilibili.com/video/BV1av411w7oa)
+2. [B站| 现场点评9个程序员简历 -- 有喷有夸](https://www.bilibili.com/video/BV1g54y1p7yV?spm_id_from=333.999.0.0)
 3. [B站| 【花果山自习室02】想进大厂？简历要这么写](https://www.bilibili.com/video/BV1FB4y1T7CP?spm_id_from=333.999.0.0)
 
 
 ### 网站搭建
-1. [B站| 手把手带你从0搭建个人网站，小白可懂的保姆级教程open in new window](https://www.bilibili.com/video/BV1rU4y1J785)
+1. [B站| 手把手带你从0搭建个人网站，小白可懂的保姆级教程](https://www.bilibili.com/video/BV1rU4y1J785)
 2. [B站| 手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo](https://www.bilibili.com/video/BV1Yb411a7ty/?spm_id_from=333.788.recommend_more_video.8)
 
 
 ### 浏览器
-1. [像素的一生Life of a Pixelopen in new window](https://www.bilibili.com/video/av35265997/)
+1. [像素的一生Life of a Pixel](https://www.bilibili.com/video/av35265997/)
 2. [浏览器是如何运作的？](https://www.bilibili.com/video/BV1x54y1B7RE/)
 
 ### 小程序
@@ -225,9 +225,9 @@
 2. [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
 
 ### Node
-1. [Node源码解析open in new window](https://11111-1252105172.cos.ap-shanghai.myqcloud.com/understand-nodejs%EF%BC%88%E5%B8%A6%E6%A0%87%E7%AD%BE%E7%89%88%EF%BC%89.pdf)
-2. [深入浅出Node.js(进阶)open in new window](https://book.douban.com/subject/25768396/)
-3. [设计数据密集型应用open in new window](https://book.douban.com/subject/30329536/)
+1. [Node源码解析](https://11111-1252105172.cos.ap-shanghai.myqcloud.com/understand-nodejs%EF%BC%88%E5%B8%A6%E6%A0%87%E7%AD%BE%E7%89%88%EF%BC%89.pdf)
+2. [深入浅出Node.js(进阶)](https://book.douban.com/subject/25768396/)
+3. [设计数据密集型应用](https://book.douban.com/subject/30329536/)
 
 
 ### 浏览器
