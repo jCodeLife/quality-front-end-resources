@@ -204,10 +204,10 @@
 1. [WebKit 技术内幕](https://book.douban.com/subject/25910556/)
 
 ### 算法
-1. [🔥算法（第4版）](https://book.douban.com/subject/19952400/)
+1. [算法（第4版）](https://book.douban.com/subject/19952400/)
 2. [算法图解](https://book.douban.com/subject/26979890/)
 3. [啊哈!算法](https://book.douban.com/subject/25894685/)
-4. [算法导论（新手不推荐）(https://book.douban.com/subject/1885170/)
+4. [算法导论](https://book.douban.com/subject/1885170/)
 
 
 ## 相关文档
