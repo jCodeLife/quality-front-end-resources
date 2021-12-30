@@ -50,7 +50,7 @@
 ### Node
 1. [掘金| http缓存机制](https://juejin.cn/post/6844904116972421128)
 2. [掘金| 从0到1搭建前端异常监控系统](https://juejin.cn/post/6844904119136698381)
-3. [可视化Git](https://learngitbranching.js.org/?demo=&locale=zh_CN)[掘金| 基于 qiankun 的微前端最佳实践（万字长文） - 从 0 到 1 篇](https://juejin.cn/post/6844904158085021704)
+3. [可视化Git](https://learngitbranching.js.org/?demo=&locale=zh_CN)
 4. [字节跳动是如何落地微前端的](https://juejin.cn/post/7016911648656982024)
 5. [知乎| 迈入现代 Web 开发](https://zhuanlan.zhihu.com/p/386607009)
 6. [深入理解Node.js](https://yjhjstz.gitbooks.io/deep-into-node/content/)
@@ -127,6 +127,7 @@
 9. [B站| 【全网首发】Vue3.0光速上手「持续更新中」](https://www.bilibili.com/video/BV1Wh411X7Xp?spm_id_from=333.999.0.0)
 10. [B站| 【备战2021】Vite2 + Vue3项目最佳实践「持续更新中」](https://www.bilibili.com/video/BV1vX4y1K7bQ?spm_id_from=333.999.0.0)
 11. [B站| Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ?spm_id_from=333.999.0.0)
+12. [Vue DevUI开源指南](https://space.bilibili.com/480140591/channel/collectiondetail?sid=30497) 村长和kagol 推荐指数：★★★★★ 
 
 ### React
 1. [B站| React 与 Vue 框架的设计思路大 PK](https://www.bilibili.com/video/BV1az4y127Ga/)
