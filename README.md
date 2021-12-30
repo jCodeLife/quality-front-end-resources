@@ -75,6 +75,7 @@
 8. [Github| 前端3+1面试题库](https://github.com/haizlin/fe-interview)
 
 ### 行业杂谈
+0. [2021 年 JavaScript 大事记](https://jishuin.proginn.com/p/763bfbd6fe5f) 桃翁 推荐指数★★★★★
 1. [谈谈我这些年对前端框架的理解](https://juejin.cn/post/7007048306438176799)    zxg_神说要有光   推荐指数★★★★
 2. [jQuery会过时吗？](https://www.zhihu.com/question/34892985/answer/60466608)   贺师俊  推荐指数★★★★ 
 
