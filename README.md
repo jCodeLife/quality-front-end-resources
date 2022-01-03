@@ -36,6 +36,8 @@
 8. [10分钟体验Vue3全家桶(Vue3 + VueRouter4 + Vuex4)](https://juejin.cn/post/6844904150082256903)
 9. [10.23尤雨溪在早早聊直播分享总结：vue3生态发展现状和展望](https://juejin.cn/post/7022137486407106591)
 10. [2021必知必会的vite+vue3项目最佳实践](https://juejin.cn/post/6926822933721513998)
+11. [分享8个非常实用的Vue自定义指令](https://juejin.cn/post/6906028995133833230)   lzg9527   推荐指数★★★★
+12. [服务端渲染SSR及实现原理](https://www.zoo.team/article/web-ssr) 政采云前端团队可橙    推荐指数★★★★
 
 ### React
 1. [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
