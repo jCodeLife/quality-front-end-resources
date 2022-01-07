@@ -132,6 +132,9 @@
 11. [Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ?spm_id_from=333.999.0.0)
 12. [Vue DevUI开源指南](https://space.bilibili.com/480140591/channel/collectiondetail?sid=30497) 村长和kagol 推荐指数：★★★★★ 
 
+### Vuex
+1. [半小时学会 Vuex 数据共享](https://www.bilibili.com/video/BV1gt4y1X78g?p=1)   李江南  推荐指数：★★★★★
+
 ### React
 1. [React 与 Vue 框架的设计思路大 PK](https://www.bilibili.com/video/BV1az4y127Ga/)
 2. [9分钟掌握React Hooks正确认知](https://www.bilibili.com/video/BV1JU4y1E73v?from=search&seid=1480540993076541477)
