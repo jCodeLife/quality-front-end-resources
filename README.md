@@ -114,7 +114,8 @@
 3. [ES6经典入门到进阶](https://ke.qq.com/course/421133?taid=3532215464389901)  陈潇冰  推荐指数：★★★★★
 4. [8分钟带你了解JS运行原理](https://www.bilibili.com/video/BV1vh411Z7QG)   objtube的卢克儿   推荐指数：★★★★★
 5. [天天造轮子-防抖节流](https://www.bilibili.com/video/BV1y3411r71u?spm_id_from=333.999.0.0)
-6. 
+
+
 ### jQuery
 1. [jQuery+Ajax从放弃到知根知底](https://www.bilibili.com/video/BV17W41137jn?from=search&seid=14022360126928211379)  李南江  推荐指数：★★★★★
 
@@ -132,8 +133,10 @@
 11. [Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ?spm_id_from=333.999.0.0)
 12. [Vue DevUI开源指南](https://space.bilibili.com/480140591/channel/collectiondetail?sid=30497) 村长和kagol 推荐指数：★★★★★ 
 
-### Vuex
+### Vue周边
 1. [半小时学会 Vuex 数据共享](https://www.bilibili.com/video/BV1gt4y1X78g?p=1)   李江南  推荐指数：★★★★★
+2. [下一代Vue状态管理工具—Pinia](https://www.bilibili.com/video/BV1eu411f7Gn?from=search&seid=14937226313225584582&spm_id_from=333.337.0.0)   YeungWanLum    推荐指数：★★★★
+3. [面向未来的 Vuex -- pinia](https://www.bilibili.com/video/BV1Mb4y1X7NL?from=search&seid=14937226313225584582&spm_id_from=333.337.0.0)  阿崔cxr    推荐指数：★★★★
 
 ### React
 1. [React 与 Vue 框架的设计思路大 PK](https://www.bilibili.com/video/BV1az4y127Ga/)
