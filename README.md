@@ -80,6 +80,7 @@
 0. [2021 年 JavaScript 大事记](https://jishuin.proginn.com/p/763bfbd6fe5f) 桃翁 推荐指数★★★★★
 1. [谈谈我这些年对前端框架的理解](https://juejin.cn/post/7007048306438176799)    zxg_神说要有光   推荐指数★★★★
 2. [jQuery会过时吗？](https://www.zhihu.com/question/34892985/answer/60466608)   贺师俊  推荐指数★★★★ 
+3. [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en)  推荐指数★★★★★
 
 ### 工程化
 1. [vite工程化实践，建议收藏](https://juejin.cn/post/6910014283707318279)
