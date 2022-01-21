@@ -35,6 +35,32 @@
 11. [分享8个非常实用的Vue自定义指令](https://juejin.cn/post/6906028995133833230)   lzg9527   推荐指数★★★★
 12. [服务端渲染SSR及实现原理](https://www.zoo.team/article/web-ssr) 政采云前端团队可橙    推荐指数★★★★
 13. [组件库从0到1](https://juejin.cn/column/6961051124031815687)   DevUI团队    推荐指数★★★★★
+14. [Vue3.0 新特性以及使用经验总结](https://juejin.cn/post/6940454764421316644)
+15. [从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境](https://juejin.cn/post/6951649464637636622)
+16. [Vue3 究竟好在哪里？（和 React Hook 的详细对比）](https://juejin.cn/post/6844904132109664264)
+17. [学习 vue3 源码的利器](https://juejin.cn/post/6925668019884523534)  花果山技术团队
+18. [Vue3 的响应式和以前有什么区别，Proxy 无敌？](https://juejin.cn/post/6844904122479542285)   ssh_晨曦时梦见兮
+19. [Vue3 中的数据侦测](https://juejin.cn/post/6844903957807169549)   ncheng
+20. [聊一聊 Vue3 的 9 个知识点](https://juejin.cn/post/7026249448233631752) 沐华
+21. [Vue3的8种和Vue2的12种组件通信](https://juejin.cn/post/6999687348120190983) 沐华
+22. [推荐 7 个 Vue2、Vue3 源码解密分析的重磅开源项目](https://juejin.cn/post/6942492146725290020)   天明夜尽        
+23. [阿里妈妈又做了新工具，帮你把 Vue2 代码改成 Vue3 的](https://juejin.cn/post/6977259197566517284) 阿里妈妈前端快爆
+24. [Vite2 + Vue3 + TypeScript + Pinia 搭建一套企业级的开发脚手架](https://juejin.cn/post/7036745610954801166)  前端小菜鸡之菜鸡互啄
+25. [30 道 Vue 面试题，内含详细讲解](https://juejin.cn/post/6844903918753808398)    我是你的超级英雄
+26. [还在迟疑是否上ts？先上车再说！vue3+ts开发初体验](https://juejin.cn/post/6979034498352545829) 杨村长
+27. [Vue3.2 setup语法糖、Composition API归纳总结](https://juejin.cn/post/7006108454028836895)   Jerry丶Hu
+28. [最全的 Vue 面试题+详解答案](https://juejin.cn/post/6961222829979697165)  Big shark@LX
+29. [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.cn/post/6844903865255477261)   前端劝退师
+30. [实战技巧，Vue原来还可以这样写](https://juejin.cn/user/2858385961407853)前端进击者
+31. [尤雨溪手写mini-vue](https://juejin.cn/post/6911897255087702030)    全栈然叔
+32. []()
+33. []()
+34. []()
+35. []()
+36. []()
+37. []()
+38. []()
+
 
 ### React
 1. [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
