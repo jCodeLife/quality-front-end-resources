@@ -53,7 +53,7 @@
 29. [Vue3.0 前的 TypeScript 最佳入门实践](https://juejin.cn/post/6844903865255477261)   前端劝退师
 30. [实战技巧，Vue原来还可以这样写](https://juejin.cn/user/2858385961407853)前端进击者
 31. [尤雨溪手写mini-vue](https://juejin.cn/post/6911897255087702030)    全栈然叔
-32. []()
+32. [为什么 vue 源码以及生态仓库要迁移 pnpm?](https://blog.csdn.net/qq_36380426/article/details/121867492)    推荐指数★★★★
 33. []()
 34. []()
 35. []()
