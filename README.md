@@ -215,6 +215,7 @@
 8. [前端开发核心知识进阶](https://book.douban.com/subject/35218831/)
 
 ### Vue
+1. [Vue.js设计与实现]()
 1. [深入浅出Vue.js](https://book.douban.com/subject/32581281/)
 2. [Testing Vue.js Applications](https://book.douban.com/subject/33338290/)
 
