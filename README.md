@@ -160,11 +160,13 @@
 3. [面向未来的 Vuex -- pinia](https://www.bilibili.com/video/BV1Mb4y1X7NL?from=search&seid=14937226313225584582&spm_id_from=333.337.0.0)  阿崔cxr    推荐指数：★★★★
 
 ### React
+
 0. [React技术全家桶全套完整版](https://www.bilibili.com/video/BV1wy4y1D7JT?from=search&seid=1177347919354858286&spm_id_from=333.337.0.0) 推荐指数：★★★★★
 1. [React 与 Vue 框架的设计思路大 PK](https://www.bilibili.com/video/BV1az4y127Ga/)
 2. [9分钟掌握React Hooks正确认知](https://www.bilibili.com/video/BV1JU4y1E73v?from=search&seid=1480540993076541477)
 3. [你必须要掌握的React知识点](https://www.bilibili.com/video/BV1rK411F7x3)
 4. [从0到1开发可视化拖拽H5编辑器(React)](https://www.bilibili.com/video/BV14b4y1R7hk)
+5. [React入门到实战](https://www.bilibili.com/video/BV1Z44y1K7Fj?spm_id_from=333.999.0.0) 推荐指数：★★★★★
 
 ### Node
 1. [Web前端会客厅|个人推荐看前9个视频](https://space.bilibili.com/476967789/channel/detail?cid=136330)  开课吧  推荐指数：★★★★★<br>
