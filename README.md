@@ -153,6 +153,7 @@
 11. [Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ?spm_id_from=333.999.0.0)
 12. [Vue DevUI开源指南](https://space.bilibili.com/480140591/channel/collectiondetail?sid=30497) 村长和kagol 推荐指数：★★★★★ 
 13. [可组合的 Vue](https://www.bilibili.com/video/BV1x54y1V7H6?spm_id_from=333.999.0.0)
+14. [56道经典Vue面试题详解](https://space.bilibili.com/480140591/channel/collectiondetail?sid=308434)
 
 ### Vue周边
 1. [半小时学会 Vuex 数据共享](https://www.bilibili.com/video/BV1gt4y1X78g?p=1)   李江南  推荐指数：★★★★★
