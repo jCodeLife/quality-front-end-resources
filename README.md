@@ -168,6 +168,7 @@
 3. [你必须要掌握的React知识点](https://www.bilibili.com/video/BV1rK411F7x3)
 4. [从0到1开发可视化拖拽H5编辑器(React)](https://www.bilibili.com/video/BV14b4y1R7hk)
 5. [React入门到实战](https://www.bilibili.com/video/BV1Z44y1K7Fj?spm_id_from=333.999.0.0) 推荐指数：★★★★★
+6. [从零认识React Hook](https://www.bilibili.com/video/BV1uT4y1G7xm?from=search&seid=868138522980399877&spm_id_from=333.337.0.0)
 
 ### Node
 1. [Web前端会客厅|个人推荐看前9个视频](https://space.bilibili.com/476967789/channel/detail?cid=136330)  开课吧  推荐指数：★★★★★<br>
