@@ -62,6 +62,7 @@
 1. [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
 2. [React全部api解读+基础实践大全(夯实基础2万字总结)](https://juejin.cn/post/6950063294270930980)
 3. [公众号| React Concurrent Mode 初识&探秘](https://mp.weixin.qq.com/s/WUVVpEoXdhVOlwtjgpLX5A)
+4. [React Libraries for 2022](https://www.robinwieruch.de/react-libraries/)
 
 ### TS
 1. [TypeScript 高级用法](https://juejin.cn/post/6926794697553739784)
